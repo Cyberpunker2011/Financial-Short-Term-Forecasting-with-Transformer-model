@@ -4,7 +4,7 @@ This is a simple demo of applying deep learning algo in financial market. It mai
 The original data is from a public source, Esunny 9.5 or Eploestar9.5. The instrument is a commodity named low-sulfur fuel oil.Its tag in SHFE(or INE) is LU. The data is intraday and ranged from 2024/11/22 to 2024/12/3.
 <br>
 # Feature Engineering
-The feature engineering part may contain some sensitive information. The feature enginneering part is censored here. But I can give a breif introduction about the high frequency factors used. The factors can be mainly described as several types, factors of order book structures, factors of order flow analysis, factors of trend, factors of volatility and some trivIal factors as suppliment. The data after processing contains 289 columns. There are 287 features as our X and 2 target features as our Y.The target features are the mean and standard deviation of price distribution in a short time future.
+The feature engineering part may contain some sensitive information. The feature enginneering part is censored here. But I can give a breif introduction about the high frequency factors used. The factors can be mainly described as several types, factors of order book structures, factors of order flow analysis, factors of trend, factors of volatility and some trivIal factors as suppliment. The data after processing contains 289 columns. There are 287 features as X and 2 target features as Y.The target features are the mean and standard deviation of price distribution in a short time future.
 <br>
 # Model 
 The architecture is showed in diagram.<br>
