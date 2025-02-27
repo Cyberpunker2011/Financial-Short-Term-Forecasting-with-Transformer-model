@@ -18,5 +18,5 @@ I utilize the simplest architecture to demonstrate the model's workflow. Even wi
 <br>
 The green line is the exact midprice at present. The blue line is the price mean in next short period.And the orange line is the model's prediction.<br>
 <br>
-The model makes the reliable predictions before the large midprice jumps with few mistakes. The attention mechanism and transformer architecture have indeed demonstrated strong modeling capabilities in short-term prediction for specific commodities. Of course, the factor construction in the feature engineering part is also an important reason why the model can deliver decent performance without complex modifications.
+**The model makes the reliable predictions before the large midprice jumps with few mistakes.** The attention mechanism and transformer architecture have indeed demonstrated strong modeling capabilities in short-term prediction for specific commodities. Of course, the factor construction in the feature engineering part is also an important reason why the model can deliver decent performance without complex modifications.
 
